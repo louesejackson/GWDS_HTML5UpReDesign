@@ -1,0 +1,3 @@
+Find the opening and closing tags and replace the fractal text with my text
+
+<title> Foos Fabulous Frozen Custard </title>

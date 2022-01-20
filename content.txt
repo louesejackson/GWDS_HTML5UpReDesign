@@ -1,3 +1,23 @@
-Find the opening and closing tags and replace the fractal text with my text
+Find the opening and closing tags and replace the fractal text with my text. This copy flows down in order in the html. Save after each change. The html remains the same, only the text has changed. 
+
+**** STEP 5 ****
 
 <title> Foos Fabulous Frozen Custard </title>
+
+<h1><a href="#">Foos Frozen Custard!</a></h1>
+					
+<p>check out our new mobile ordering app for custard to go! </p>
+
+REMOVE <a href="http://html5up.net">HTML5 UP</a>
+
+<li><a href="#" class="button primary icon solid fa-download">AppStore</a></li>
+
+**look carefully, update the font awesome to ice-cream**
+
+<li><a href="#one" class="button icon solid fa-ice-cream scrolly">Welcome to our custard shop!</a></li>
+
+
+
+**** END OF STEP 5****
+
+****STEP 6****

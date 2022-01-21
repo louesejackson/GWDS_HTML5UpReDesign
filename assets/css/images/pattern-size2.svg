@@ -2,7 +2,7 @@
     <style type="text/css"><![CDATA[
 		line {
 			stroke: rgba(240,50,50,0.5);
-			stroke-width: 1px;
+			stroke-width: 5px;
 		}
     ]]></style>
 	<line x1="-450" y1="0" x2="50" y2="500" />

@@ -2943,8 +2943,8 @@ input, select, textarea {
 				}
 
 		.wrapper.style1 {
-			background-color: #4696e5;
-			color: #d1e5f9;
+			background-color: #799E15;
+			color: #ffffff;
 		}
 
 			.wrapper.style1 input[type="submit"],
@@ -3141,6 +3141,8 @@ input, select, textarea {
 			border: 2px solid hotpink;
 			background-color: #EB2D20;
 			color: #999999;
+		}
+
 		}
 
 			.wrapper.style2 input[type="submit"],

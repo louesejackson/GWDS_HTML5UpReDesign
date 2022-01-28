@@ -20,4 +20,3 @@ REMOVE <a href="http://html5up.net">HTML5 UP</a>
 
 **** END OF STEP 5****
 
-****STEP 6****
